@@ -1,0 +1,1 @@
+A different key sequence can be bound to multipaste, such as "Alt+m" or "Ctrl+p" or something. I believe the docs for [QKeySequence](https://doc.qt.io/qt-6/qkeysequence.html) describe all the ways you can specify key sequences.
